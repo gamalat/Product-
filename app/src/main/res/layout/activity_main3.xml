@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.home.first.Main3Activity">
+
+<android.support.v7.widget.AppCompatImageView
+    android:id="@+id/image3"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    />
+
+    <TextView
+        android:id="@+id/txt31"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="gogos"
+        android:textColor="#45427c"
+        android:textSize="16dp" />
+    <TextView
+        android:id="@+id/txt32"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="gogo"
+        android:textColor="#45427c"
+        android:textSize="16dp" />
+    <TextView
+        android:id="@+id/txt33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_weight="0"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="gogos"
+        android:textColor="#45427c"
+        android:textSize="16dp" />
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:padding="3dp"
+        android:text="حجز المنتج"
+        android:textColor="#45427c"
+        android:background="#e2acd7"
+        android:layout_marginTop="100dp"
+
+
+        />
+</LinearLayout>
+
